@@ -17,9 +17,10 @@ Migración del formulario de la Unidad 1 a React con Bootstrap.
 
 ## Instalación
 
-1. Entra a la carpeta del proyecto:
+1. Clona el repositorio:
    ```
-   cd formulario-react
+   git clone <url-del-repositorio>
+   cd <carpeta-del-repo>
    ```
 2. Instala las dependencias:
    ```
